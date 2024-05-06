@@ -73,7 +73,7 @@ endmodule
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![Uploading WhatsApp Image 2024-05-06 at 22.09.17_db23de60.jpg…]()
+![WhatsApp Image 2024-05-06 at 22 09 17_7f426e8d](https://github.com/DivyaP0110/T-FLIPFLOP-POSEDGE/assets/144870891/6067dd6a-273e-4f6e-83ba-222ffe6c789c)
 
 
 **RESULTS**
